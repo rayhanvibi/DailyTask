@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=DailyTaskRepository
-comment1.params=
-comment1.target=data.Dailytask[]\ getAll()
-comment2.params=dailytask
-comment2.target=void\ add(data.Dailytask)
-comment3.params=number
-comment3.target=boolean\ remove(java.lang.Integer)
-numComments=4
