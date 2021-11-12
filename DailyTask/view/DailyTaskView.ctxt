@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DailyTaskView
+comment1.params=dailyTaskService
+comment1.target=DailyTaskView(service.DailyTaskService)
+comment2.params=
+comment2.target=void\ showDailyTask()
+comment3.params=
+comment3.target=void\ addDailyTask()
+comment4.params=
+comment4.target=void\ removeDailyTask()
+numComments=5
